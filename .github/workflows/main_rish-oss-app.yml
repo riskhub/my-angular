@@ -59,4 +59,4 @@ jobs:
           app-name: 'rish-oss-app'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_156B37DA462E4C5E926DC898D34C8F8C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_848C0FD82ED84269A89F694212D66F5A }}
